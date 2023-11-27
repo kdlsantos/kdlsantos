@@ -6,7 +6,7 @@
 <p align="left">
 </p>
 
-- 📝  I’m currently working on a college student at the Technological Institute of the Philippines, taking up a Bachelor of Science in Computer Engineering. I am in my third year of the program. This compilation of the different hands-on activities that can help to showcase my knowledge and portrait the different understanding that I gained while in college. These activities can help to see my capabilities that can help me to reach the success as a computer engineering.   
+- 📝  I’m currently a college student at the Technological Institute of the Philippines, taking a Bachelor of Science in Computer Engineering and I'm in my third year of the program. This compilation of the different hands-on activities that can help to showcase my knowledge and portrait the different understanding that I gained while in college. These activities can help to see my capabilities that can help me to reach the success as a computer engineering.
 - 🔍  I’m currently learning more about system administration and Cisco networking. Both of these field are important in managing and also maintaining a computer system and networks. I'm open to learn and explore more things in the future that can help me to grow and develop more. 
 
 <h3 align="left">Languages and Tools:</h3>
