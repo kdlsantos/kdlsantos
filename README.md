@@ -1,16 +1,37 @@
-### Hi there 👋
+![A computer Engineering Student](https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDExMDUwNzgsIm5iZiI6MTcwMTEwNDc3OCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzExMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMTI3VDE3MDYxOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFhYzUwYWE4YzhkZGQ5NGYwOTRiYTUzNWI2ODI1YTBkZjRhMTA3Y2ZiNWNmMjk0ZjcxYjRmNjIwOTQwZjdlMDgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.slx1ea3EBd_K46assnx1PKKWM2wgReqJ3onpozZ6yQw)
+<h1 align="center">Hi 👋, I'm Karlo D. Santos</h1>
+<h3 align="center">A Computer Engineering student</h3>
 
-<!--
-**kdlsantos/kdlsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">About me:</h3>
+<p align="left">
+</p>
 
-Here are some ideas to get you started:
+- 📝  I’m currently working on a college student at the Technological Institute of the Philippines, taking up a Bachelor of Science in Computer Engineering. I am in my third year of the program. This compilation of the different hands-on activities that can help to showcase my knowledge and portrait the different understanding that I gained while in college. These activities can help to see my capabilities that can help me to reach the success as a computer engineering.   
+- 🔍  I’m currently learning more about system administration and Cisco networking. Both of these field are important in managing and also maintaining a computer system and networks. I'm open to learn and explore more things in the future that can help me to grow and develop more. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdlsantos)](https://github.com/anuraghazra/github-readme-stats)
+
+
+| Name         | Title      |
+| ------------ | ---------- |
+| [Hands-on Activity 1](https://github.com/kdlsantos/hoa1_santos)   | Creating Virtual Machines   |
+| [Hands-on Activity 2](https://github.com/kdlsantos/Hands-on-Activity-2)   | SSH Key-Based Authentication and GIT Setup  |
+| [Hands-on Activity 3](https://github.com/kdlsantos/Hands-on-Activity-3)   | Install SSH Server on CentOS and RHEL 8    |
+| [Hands-on Activity 4](https://github.com/kdlsantos/Hands-on-Activity-4)   | Running Elevated Ad hoc Commands    |
+| [Hands-on Activity 5](https://github.com/kdlsantos/Hands-on-Activity-5)   | Consolidating Playbook plays    |
+| [Major Examination](https://github.com/kdlsantos/Santos_PrelimExam)   | Prelim Examination    |
+| [Hands-on Activity 6](https://github.com/kdlsantos/Hands-on-Activity-6)   | Targeting Specific Nodes    |
+| [Hands-on Activity 7](https://github.com/kdlsantos/Hands-on-Activity-7)   | Managing Files and Creating Roles in Ansible    |
+| [Hands-on Activity 8](https://github.com/kdlsantos/hoa8)   | Install, Configure, and Manage Availability Monitoring tools   |
+| [Hands-on Activity 9](https://github.com/kdlsantos/hoa9)   | Install, Configure, and Manage Performance Monitoring tools    |
+| [Hands-on Activity 10](https://github.com/kdlsantos/hoa10_santos)   | Install, Configure, and Manage Log Monitoring tools    |
+| [Major Examination](https://github.com/kdlsantos/CPE_MIDEXAM_SANTOS)  | Midterm Examination    |
+| [Hands-on Activity 11](https://github.com/kdlsantos/hoa11_santos)   | Containerization    |
+| [Hands-on Activity 12]()  | Build a Sample Web App in a Docker Container    |
+| [Hands-on Activity 13]()   | OpenStack Prerequisite Installation    |
+| [Hands-on Activity 14]()   | OpenStack Installation (Keystone, Glance, Nova)    |
+| [Hands-on Activity 15]()   | OpenStack Installation (Neutron, Horizon, Cinder)    |
+| [Major Examination]()   | Final Examination    |
