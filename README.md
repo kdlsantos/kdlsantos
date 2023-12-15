@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karlo D. Santos</h1>
 <h3 align="center">A Computer Engineering student</h3>
 
-<h3 align="left">About me:</h3>
-<p align="left">
-</p>
-
-- 📝  I’m currently a college student at the Technological Institute of the Philippines, taking a Bachelor of Science in Computer Engineering and I'm in my third year of the program. This compilation of the different hands-on activities that can help to showcase my knowledge and portrait the different understanding that I gained while in college. These activities can help to see my capabilities that can help me to reach the success as a computer engineering.
-- 🔍  I’m currently learning more about system administration and Cisco networking. Both of these field are important in managing and also maintaining a computer system and networks. I'm open to learn and explore more things in the future that can help me to grow and develop more. 
+![](https://komarev.com/ghpvc/?username=srhmshan&style=for-the-badge)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
@@ -29,8 +24,8 @@
 | [Hands-on Activity 10](https://github.com/kdlsantos/hoa10_santos)   | Install, Configure, and Manage Log Monitoring tools    |
 | [Major Examination](https://github.com/kdlsantos/CPE_MIDEXAM_SANTOS)  | Midterm Examination    |
 | [Hands-on Activity 11](https://github.com/kdlsantos/hoa11_santos)   | Containerization    |
-| [Hands-on Activity 12]()  | Build a Sample Web App in a Docker Container    |
-| [Hands-on Activity 13]()   | OpenStack Prerequisite Installation    |
-| [Hands-on Activity 14]()   | OpenStack Installation (Keystone, Glance, Nova)    |
-| [Hands-on Activity 15]()   | OpenStack Installation (Neutron, Horizon, Cinder)    |
-| [Major Examination]()   | Final Examination    |
+| [Hands-on Activity 12](https://github.com/kdlsantos/Hands-on-Activity-12)  | Build a Sample Web App in a Docker Container    |
+| [Hands-on Activity 13](https://github.com/kdlsantos/HOA13_santos)   | OpenStack Prerequisite Installation    |
+| [Hands-on Activity 14](https://github.com/kdlsantos/HOA14_santos)   | OpenStack Installation (Keystone, Glance, Nova)    |
+| [Hands-on Activity 15](https://github.com/kdlsantos/Hands-on-Activity-15)   | OpenStack Installation (Neutron, Horizon, Cinder)    |
+| [Major Examination](https://github.com/kdlsantos/kdlsantos.github.io)   | Final Examination    |
